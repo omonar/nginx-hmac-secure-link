@@ -1,0 +1,23 @@
+* Tue Aug 26 2014
+
+    Fixes for compatibility with BoringSSL.
+
+    BoringSSL does not include EVP_get_digestbyname().
+
+* Tue Jul 1 2014
+
+    Corrections for issue 2.
+
+* Thu Mar 20 2014
+
+    Improved security with timestamp in ISO 8601 format.
+
+    Support for secure token generation in proxy mode.
+
+* Tue Sep 16 2013
+
+    Corrections for issue 1.
+
+* Thu Jun 21 2012
+
+    Initial public release.
